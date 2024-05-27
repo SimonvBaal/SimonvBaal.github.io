@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr Simon T van Baal"
+title                    : "Simon T van Baal"
 title_separator          : "-"
 name                     : &name "Simon T van Baal"
 description              : &description "Researcher: Judgment and Decision Making"
@@ -21,8 +21,8 @@ repository               : "SimonvBaal/SimonvBaal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : ""
+  avatar           : "head-shot_2022_cropped.jpeg"
+  name             : "Dr Simon T van Baal, PhD"
   pronouns         : # example: "she/her"  
   bio              : "I am a judgment and decision making researcher. My main areas of interest are impulsivity, self-control, and time preferences."
   location         : "Leeds, UK"
