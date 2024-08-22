@@ -32,7 +32,7 @@ Work experience
   * Duties included: Teaching in seminars of Data Analysis for Behavioural Science.
   * Supervisor: Dr Pete Trimmer
 
-* Dec 2019: Sessional Teacher
+* 2019-2022: Sessional Teacher
   * Monash University
   * Duties included: Teaching seminars of Life, Death, and Morality; Critical Thinking.
   * Supervisor: Prof Jakob Hohwy
