@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-http://academicpages.github.io/files/curriculum-vitae_simon-van-baal_20240902.pdf
-
 {% include base_path %}
+
+http://academicpages.github.io/files/curriculum-vitae_simon-van-baal_20240902.pdf
 
 Education
 ======
